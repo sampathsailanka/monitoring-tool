@@ -4,18 +4,19 @@
     "url": "https://jobster-api-vnuk.onrender.com",
     "icon": "https://icons.duckduckgo.com/ip3/jobster-api-vnuk.onrender.com.ico",
     "slug": "jobster-api",
-    "status": "up",
-    "uptime": "99.32%",
+    "status": "down",
+    "uptime": "99.40%",
     "uptimeDay": "98.88%",
-    "uptimeWeek": "99.32%",
-    "uptimeMonth": "99.32%",
-    "uptimeYear": "99.32%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.40%",
+    "uptimeYear": "99.40%",
     "time": 749,
-    "timeDay": 1111,
+    "timeDay": 1431,
     "timeWeek": 749,
     "timeMonth": 749,
     "timeYear": 749,
     "dailyMinutesDown": {
+      "2024-01-13": 0,
       "2024-01-12": 16
     }
   }
