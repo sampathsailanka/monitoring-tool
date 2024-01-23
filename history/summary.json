@@ -4,7 +4,7 @@
     "url": "https://jobster-api-vnuk.onrender.com",
     "icon": "https://icons.duckduckgo.com/ip3/jobster-api-vnuk.onrender.com.ico",
     "slug": "jobster-api",
-    "status": "up",
+    "status": "down",
     "uptime": "98.37%",
     "uptimeDay": "92.37%",
     "uptimeWeek": "97.62%",
@@ -16,6 +16,7 @@
     "timeMonth": 1184,
     "timeYear": 1184,
     "dailyMinutesDown": {
+      "2024-01-23": 0,
       "2024-01-22": 110,
       "2024-01-20": 17,
       "2024-01-19": 15,
